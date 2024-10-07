@@ -1,0 +1,13 @@
+{
+  "name": "typescript_overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && node ./build/index.js",
+     "start": "node ./build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
