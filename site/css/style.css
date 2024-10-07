@@ -1,0 +1,14 @@
+
+@keyFrames colors {
+    from {
+        background: red;
+    }
+    to {
+        background: blue;
+    }
+}
+
+
+body {
+    animation: colors 5s infinite alternate;
+}
